@@ -5,7 +5,7 @@ document.querySelector('nav button[type="button"]').addEventListener('click', fu
 
 document.addEventListener("DOMContentLoaded", function () {
     // Set the date to countdown to (replace with your desired date)
-    const targetDate = new Date("2025-03-10T10:00:00");
+    const targetDate = new Date("2025-04-10T02:00:00");
 
     // Update the countdown every second
     setInterval(updateCountdown, 1000);
